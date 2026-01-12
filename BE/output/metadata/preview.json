@@ -1,0 +1,38 @@
+{
+  "duration": 175.915,
+  "interval": 2,
+  "thumbWidth": 160,
+  "thumbHeight": 90,
+  "totalThumbs": 88,
+  "thumbsPerSprite": 25,
+  "sprites": [
+    {
+      "url": "/sprites/sprite-0.jpg",
+      "startIndex": 0,
+      "frames": 25,
+      "columns": 5,
+      "rows": 5
+    },
+    {
+      "url": "/sprites/sprite-1.jpg",
+      "startIndex": 25,
+      "frames": 25,
+      "columns": 5,
+      "rows": 5
+    },
+    {
+      "url": "/sprites/sprite-2.jpg",
+      "startIndex": 50,
+      "frames": 25,
+      "columns": 5,
+      "rows": 5
+    },
+    {
+      "url": "/sprites/sprite-3.jpg",
+      "startIndex": 75,
+      "frames": 13,
+      "columns": 5,
+      "rows": 3
+    }
+  ]
+}
