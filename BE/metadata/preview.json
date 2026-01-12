@@ -1,0 +1,7 @@
+{
+"sprite": "/sprites/sprite.jpg",
+"thumbnailWidth": 160,
+"thumbnailHeight": 90,
+"interval": 2,
+"columns": 5
+}
